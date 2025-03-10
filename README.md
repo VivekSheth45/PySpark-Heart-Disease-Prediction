@@ -1,2 +1,2 @@
-# PySpark-Twitter-Sentiment-
-This project analyzes sentiment in hydrated tweets using PySpark and VADER. It processes seven CSV files, cleans data, and classifies tweets as positive, neutral, or negative. Spark SQL is used for insights, optimizing performance with distributed computing. Future plans include deep learning integration and AWS deployment.
+# PySpark-Heart-Disease-Prediction
+This project uses PySpark and machine learning to predict heart disease based on patient health metrics. It includes data preprocessing, exploratory data analysis (EDA), and predictive modeling using Scikit-learn. The dataset contains clinical indicators like age, cholesterol, and blood pressure for classification.
